@@ -322,3 +322,73 @@ hr {
     justify-content: center;
 }
 
+.boxes .box1:hover {
+    background-color: white;
+    color: teal;
+    border: 2px solid teal;
+}
+.boxes .box2:hover {
+    background-color: white;
+    color: gold;
+    border: 2px solid gold;
+}
+.boxes .box3:hover {
+    background-color: white;
+    color: cadetblue;
+    border: 2px solid cadetblue;
+}
+.boxes .box4:hover {
+    background-color: white;
+    color: coral;
+    border: 2px solid coral;
+}
+.boxes .box5:hover {
+    background-color: white;
+    color: crimson;
+    border: 2px solid crimson;
+}
+.boxes .box6:hover {
+    background-color: white;
+    color: forestgreen;
+    border: 2px solid forestgreen;
+}
+.boxes .box7:hover {
+    background-color: white;
+    color: darkorchid;
+    border: 2px solid darkorchid;
+}
+.boxes .box8:hover {
+    background-color: white;
+    color: hotpink;
+    border: 2px solid hotpink;
+}
+.boxes .box9:hover {
+    background-color: white;
+    color: indigo;
+    border: 2px solid indigo;
+}
+.boxes .box10:hover {
+    background-color: white;
+    color: dodgerblue;
+    border: 2px solid dodgerblue;
+}
+
+.bonus-img-one {
+    width: 100%;
+}
+
+.extra-img-large {
+    width: 100%;
+    height: 75%;
+}
+
+.extra-img-small {
+    width: 100%;
+    height: 55%;
+}
+
+button:hover {
+    background-color: lightskyblue;
+    color: black;
+    border: 2px solid orange;
+}
